@@ -1,10 +1,20 @@
-### Project 1 - 
+## Hi, I'm Amy. 
+
+I'm an educator, humanitarian, global nomad, lifelong learner, goal-digger, Sudoku enthusiast and now a data scientist. 
+
+I have an MA in Education and International Development, I'm trained in monitoring and evaluation, and I'm in experienced in creating program logframes, quantititaive and qualitative research, an the  I have lived in 8 countries and 4 continents over the past 10 years, and I am currently based in Germany where I'm studying an online masters in Data Science. 
+
+I'm interested in the intersection of social impact and data science, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly issues related to gender, child rights, health equity and the forcibly displaced 
+
+### Project 1:
+
 
 You can use the [editor on GitHub](https://github.com/Amy-Reidy/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Project 2: [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
+### Project 2: 
+[“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
 
 This was my first ever data science project, which I did as a capstone project for [IBM's Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=10-IBM-Data-Science-ROW&adgroupid=116274867101&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506892807488&hide_mobile_promo&gclid=Cj0KCQjw5auGBhDEARIsAFyNm9H3qhF5Sg8y6oWRoxM86ZqMkHP_gaTK_Y1x9O8FKXRNscBTeqVRav8aAttWEALw_wcB) in November 2020.
 
