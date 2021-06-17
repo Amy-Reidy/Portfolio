@@ -2,16 +2,21 @@
 
 I'm an educator, humanitarian, global nomad, lifelong learner, goal-digger, Sudoku enthusiast and now a data scientist. 
 
-I have an MA in Education and International Development, I'm trained in monitoring and evaluation, and I'm in experienced in creating program logframes, quantititaive and qualitative research, an the  I have lived in 8 countries and 4 continents over the past 10 years, and I am currently based in Germany where I'm studying an online masters in Data Science. 
+I have an MA in Education and International Development, I'm trained in monitoring and evaluation, and I have worked in the non-profit and private sectors in 4 continents over the past 10 years. I am currently based in Germany where I'm studying an online masters in Data Science. 
 
-I'm interested in the intersection of social impact and data science, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly issues related to gender, child rights, health equity and the forcibly displaced 
+I'm interested in the intersection of social impact and data science, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in working on challenges related to migration and displacement, gender equality, children's rights, and equity in public health and education.
 
-### Project 1:
+### Project 1: 
+["Exploring Factors Related to Global Rates of COVID-19"](https://github.com/Amy-Reidy/Portfolio/blob/main/IntroProgProject%20-%20%20s00216954%20Amy%20REIDY/IntroProgProject%20-%20s00216954%20Amy%20REIDY.ipynb)
+I created this project as my final assignment for the 'Introductory Python for Data Science' module of my master's program in May 2021.
 
+There were two goals of the project:
+1. Test the claim that female-led countries have lower rates of COVID-19.
 
-You can use the [editor on GitHub](https://github.com/Amy-Reidy/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+2. Create a linear regression model to predict rates of COVID-19 in countries around the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The data for COVID-19 rates around the world was retrieved by sending an API request to 'https://api.covid19api.com/summary'. Data for population and global rates of smoking, obesity, and life expectancy was sourced from csv files on https://ourworldindata.org/. And to get a list of countries that have had a female leader for the COVID-19 outbreak, I used BeautifulSoup to web-scrape a table with female heads of state and government from Wikipedia.
+
 
 ### Project 2: 
 [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
@@ -20,7 +25,7 @@ This was my first ever data science project, which I did as a capstone project f
 
 The aim of the project was to investigate where would be a suitable location for a new Indian restaurant in Toronto, based on the density of existing Indian restaurants and the number of Indian residents in each neighborhood.
 
-Data was sourced by webscraping Wikipedia, extracting information about various venues in Toronto and their geospatial information using Foursquare’s API, and obtaining geospatial for Toronto from “https://cocl.us/Geospatial_data”.
+Data was sourced by web-scraping Wikipedia, extracting information about various venues in Toronto and their geospatial information using Foursquare’s API, and obtaining geospatial for Toronto from “https://cocl.us/Geospatial_data”.
 
 The K-means machine learning model was used to group the neighborhoods into clusters based on the density of Indian restaurants in each neighborhood.
 
