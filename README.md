@@ -22,7 +22,11 @@ The data for COVID-19 rates around the world was retrieved by sending an API req
 Libraries used: *pandas, numpy, sklearn, matplotlib, seaborn, requests, geopy, folium, wikipedia, yellowbrick*
 
 ### Project 2: 
+["Has COVID-19 affected the world's happiness and wellbeing?"](https://github.com/Amy-Reidy/Portfolio-by-Amy-Reidy/blob/main/World%20Happiness%20and%20Wellbeing%20-%20Stats%20Project/World%20Happiness%20and%20Wellbeing%20Project.ipynb)
+
 ![world happiness](https://user-images.githubusercontent.com/73396449/123085532-a2308f00-d422-11eb-8733-d87a7d50f059.jpg)
+
+
 
 ![Beyond-Catastrophe](https://user-images.githubusercontent.com/73396449/123085318-6269a780-d422-11eb-85a9-babc7d78552b.jpg)
 
