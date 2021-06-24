@@ -23,17 +23,18 @@ Libraries used: *pandas, numpy, sklearn, matplotlib, seaborn, requests, geopy, f
 
 ### Project 2: 
 ["Has COVID-19 affected the world's happiness and wellbeing?"](https://github.com/Amy-Reidy/Portfolio-by-Amy-Reidy/blob/main/World%20Happiness%20and%20Wellbeing%20-%20Stats%20Project/World%20Happiness%20and%20Wellbeing%20Project.ipynb)
-
-![world happiness](https://user-images.githubusercontent.com/73396449/123085532-a2308f00-d422-11eb-8733-d87a7d50f059.jpg)
-
-
-
 ![Beyond-Catastrophe](https://user-images.githubusercontent.com/73396449/123085318-6269a780-d422-11eb-85a9-babc7d78552b.jpg)
 
+This is another project that I completed for my master's program, this time for the 'Statistics and Applied Probability' module. I used data from the World Happiness Report 2021 to test the following hypotheses:
+ 1.	Global happiness scores decreased from 2019 to 2020. 
+ 2.	Positive emotions decreased globally from 2019 to 2020. 
+ 3.	Negative emotions increased globally from 2019 to 2020.
 
+As the differences between the samples were not normally distributed and had significant outliers, I decided to use a non-parametric test (Wilcoxon signed-rank test), rather than the paired T-test which is usually used for compared paired samples. 
 
+Libraries used: *pandas, numpy, scipy, matplotlib, seaborn* 
 
-
+Project 3:
 [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
 
 This was my first ever data science project, which I did as a capstone project for [IBM's Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=10-IBM-Data-Science-ROW&adgroupid=116274867101&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506892807488&hide_mobile_promo&gclid=Cj0KCQjw5auGBhDEARIsAFyNm9H3qhF5Sg8y6oWRoxM86ZqMkHP_gaTK_Y1x9O8FKXRNscBTeqVRav8aAttWEALw_wcB) in November 2020.
