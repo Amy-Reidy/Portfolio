@@ -18,11 +18,11 @@ This is just the beginning of my data science journey, and as I progress, I am e
 
 I created this project as my final assignment for the 'Introductory Programming for Data Science' module of my master's program in May 2021.
 
-There were two goals of the project:
-**1. Test the claim that female-led countries have lower rates of COVID-19.**
+There were two goals of the project:\
+**1. Test the claim that female-led countries have lower rates of COVID-19.**\
    I used the non-parametric Mann-Whitney U test to test the null hypothesis that the distributions of two samples are equal; first, I compared all countries in the sample and then just the OECD countries, as some critics say that this claim focuses too much on OECD countries.
 
-**2. Create a linear regression model to predict rates of COVID-19 in countries around the world.**
+**2. Create a linear regression model to predict rates of COVID-19 in countries around the world.**\
    I created multiple linear regression models using TensorFlow and Scikit-learn and compared the results. Note: these are quite simple models, as the course’s main objective was to introduce Python programming and there was only a very brief introduction to machine learning.
    
 The data for COVID-19 rates around the world was retrieved by sending an API request to 'https://api.covid19api.com/summary'. Data for population and global rates of smoking, obesity, and life expectancy was sourced from csv files on https://ourworldindata.org/. Information about which countries are part of the OECD was retrieved from [https://www.oecd.org/](https://www.oecd.org/newsroom/global-oecd-welcomes-colombia-as-its-37th-member.htm#:~:text=The%20OECD's%2037%20members%20are,Poland%2C%20Portugal%2C%20Slovak%20Republic%2C). And to get a list of countries that have had a female leader for the COVID-19 outbreak, I used BeautifulSoup to web-scrape a table with female heads of state and government from [Wikipedia](https://en.wikipedia.org/wiki/List_of_elected_and_appointed_female_heads_of_state_and_government).  
