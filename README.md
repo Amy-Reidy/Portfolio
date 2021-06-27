@@ -1,6 +1,6 @@
 ## Hi, I'm Amy. 
 
-![IMG_20210427_103513](https://user-images.githubusercontent.com/73396449/123549131-e9db5180-d767-11eb-93ef-46febb5b4292.jpg)
+![IMG_20210427_103513 (1)](https://user-images.githubusercontent.com/73396449/123549631-227c2a80-d76a-11eb-8cb7-7395ca88872e.jpg)
 
 
 I'm an educator, humanitarian, global nomad, lifelong learner, goal-digger, Sudoku enthusiast and now an aspiring data scientist. 
