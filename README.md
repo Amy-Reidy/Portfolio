@@ -1,5 +1,8 @@
 ## Hi, I'm Amy. 
 
+![IMG_20210427_103513](https://user-images.githubusercontent.com/73396449/123549131-e9db5180-d767-11eb-93ef-46febb5b4292.jpg)
+
+
 I'm an educator, humanitarian, global nomad, lifelong learner, goal-digger, Sudoku enthusiast and now an aspiring data scientist. 
 
 I have an MA in Education and International Development, I'm trained in monitoring and evaluation, and I have worked in the non-profit and private sectors in 4 continents over the past 10 years. I am currently based in Germany where I'm studying an online master’s in data science. 
@@ -16,12 +19,15 @@ This is just the beginning of my data science journey, and as I progress, I am e
 I created this project as my final assignment for the 'Introductory Programming for Data Science' module of my master's program in May 2021.
 
 There were two goals of the project:
-1. Test the claim that female-led countries have lower rates of COVID-19.
-   I used the non-parametric Mann-Whitney U test to test the null hypothesis H0 that the distributions of two samples are equal; first, I compared all countries in the sample and then just the OECD countries, as some critics say that this claim focuses too much on OECD and western countries.
+**1. Test the claim that female-led countries have lower rates of COVID-19.**
+   I used the non-parametric Mann-Whitney U test to test the null hypothesis that the distributions of two samples are equal; first, I compared all countries in the sample and then just the OECD countries, as some critics say that this claim focuses too much on OECD countries.
 
-2. Create a linear regression model to predict rates of COVID-19 in countries around the world.
-   I created multiple linear regression models using TensorFlow and Scikit-learn and compared the results. Note: these are quite simple models, as the course’s main objective was to introduce Python programming and there was only a very brief introduction to machine learning.  
-The data for COVID-19 rates around the world was retrieved by sending an API request to 'https://api.covid19api.com/summary'. Data for population and global rates of smoking, obesity, and life expectancy was sourced from csv files on https://ourworldindata.org/. Information about which countries are part of the OECD was retrieved from [https://www.oecd.org/](https://www.oecd.org/newsroom/global-oecd-welcomes-colombia-as-its-37th-member.htm#:~:text=The%20OECD's%2037%20members%20are,Poland%2C%20Portugal%2C%20Slovak%20Republic%2C) to get a list of countries that have had a female leader for the COVID-19 outbreak, I used BeautifulSoup to web-scrape a table with female heads of state and government from [Wikipedia](https://en.wikipedia.org/wiki/List_of_elected_and_appointed_female_heads_of_state_and_government).  After the data was pre-processed, it was merged into a SQL database which was queried to extract information into dataframes 
+**2. Create a linear regression model to predict rates of COVID-19 in countries around the world.**
+   I created multiple linear regression models using TensorFlow and Scikit-learn and compared the results. Note: these are quite simple models, as the course’s main objective was to introduce Python programming and there was only a very brief introduction to machine learning.
+   
+The data for COVID-19 rates around the world was retrieved by sending an API request to 'https://api.covid19api.com/summary'. Data for population and global rates of smoking, obesity, and life expectancy was sourced from csv files on https://ourworldindata.org/. Information about which countries are part of the OECD was retrieved from [https://www.oecd.org/](https://www.oecd.org/newsroom/global-oecd-welcomes-colombia-as-its-37th-member.htm#:~:text=The%20OECD's%2037%20members%20are,Poland%2C%20Portugal%2C%20Slovak%20Republic%2C). And to get a list of countries that have had a female leader for the COVID-19 outbreak, I used BeautifulSoup to web-scrape a table with female heads of state and government from [Wikipedia](https://en.wikipedia.org/wiki/List_of_elected_and_appointed_female_heads_of_state_and_government).  
+
+After the data was pre-processed, it was merged into a SQL database which was queried to extract information into dataframes 
 
 Libraries used: *pandas, numpy, sklearn, tensorflow, sqlite3, scipy.stats,  matplotlib, seaborn, requests, BeautifulSoup, geopy, folium*
 
@@ -41,8 +47,7 @@ Libraries used: *pandas, numpy, scipy, matplotlib, seaborn*
 
 
 
-Project 3:
-[“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
+### Project 3: [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
 
 ![shutterstock_573575497___Super_Portrait](https://user-images.githubusercontent.com/73396449/123547450-22c3f800-d761-11eb-9bd9-61e6df04b868.jpg)
 
