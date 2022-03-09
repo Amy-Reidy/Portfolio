@@ -9,10 +9,23 @@ I have an MA in Education and International Development, I'm trained in monitori
 
 I'm interested in the intersection of social impact and data science, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in working on challenges related to migration and displacement, gender equality, children's rights, and equity in public health and education.
 
-This is just the beginning of my data science journey, and as I progress, I am excited to add projects to my portfolio which are more related to my interests and which utilize more machine learning techniques. Watch this space!
+This is just the beginning of my data science journey, and as I progress, I am excited to add projects to my portfolio which are more related to my interests. Watch this space!
 
+### Project 1: ["Transfer Learning with the VGG16 Convolutional Neural Network to Classify Traffic Signs"](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf)
 
-### Project 1: ["Exploring Factors Related to Global Rates of COVID-19"](https://github.com/Amy-Reidy/Portfolio/blob/main/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19..ipynb)
+![image](https://user-images.githubusercontent.com/73396449/157452389-8f33cf8d-4cfe-48ec-9b7b-8495d570ddb4.png)
+
+As vehicles become more autonomous, there is an increasing demand in the automobile industry for driver assistance systems that can identify and classify road signs quickly and accurately. This project aims to create a classifier, using a pre-trained convolutional neural network, that can effectively classify images from the German Traffic Sign Recognition Benchmark dataset. 
+
+The convolutional base of the popular VGG16 model was used for feature extraction while the top fully connected layers were retrained with the GTSRB dataset and the hyperparameters were fine-tuned to further improve the model. The results show that the best performing model in this experiment achieved an accuracy of 82.98%. As the dataset is quite imbalanced, future work could improve on this result by augmenting the images in the smaller classes to create a more balanced dataset.
+
+<img src="https://user-images.githubusercontent.com/73396449/157449841-3084082f-89e6-44d5-b87b-a9fa85a32a8a.png" height="400">
+
+### Project 2: ["Global Disparities in Cervical Cancer Rates"](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)
+
+### Project 3: ["Latent Semantic Analysis: Applied Linear Algebra in Natural Language Understanding"](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb)
+
+### Project 4: ["Exploring Factors Related to Global Rates of COVID-19"](https://github.com/Amy-Reidy/Portfolio/blob/main/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19..ipynb)
 
 ![Alarming gap in global response to COVID-19](https://user-images.githubusercontent.com/73396449/123540825-3bbcb100-d741-11eb-84f9-0d0b61a7fda3.jpg)
 
