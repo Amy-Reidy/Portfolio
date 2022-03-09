@@ -1,0 +1,175 @@
+Country,Incidence,Mortality,Code2,Code3,Continent,Human Development Index (HDI),Life Expectancy at Birth,Expected Years of Schooling,Mean Years of Schooling,Gross National Income (GNI) per Capita,GNI per capita rank minus HDI rank,National HPV Vaccination Program,Sub-Region
+Afghanistan,10.4,7.6,AF,AFG,Asia,0.511,64.8,10.2,3.9,2229.0,0,No,Southern Asia
+Albania,6.6,3.3,AL,ALB,Europe,0.795,78.6,14.7,10.1,13998.0,18,No,Southern Europe
+Algeria,7.9,4.5,DZ,DZA,Africa,0.748,76.9,14.6,8.0,11174.0,13,No,Northern Africa
+Angola,37.6,25.0,AO,AGO,Africa,0.581,61.2,11.8,5.2,6104.0,-17,No,Sub-Saharan Africa
+Argentina,16.7,8.7,AR,ARG,South America,0.845,76.7,17.7,10.9,21190.0,16,No,Latin America and the Caribbean
+Armenia,7.8,4.6,AM,ARM,Asia,0.776,75.1,13.1,11.3,13894.0,9,No,Western Asia
+Australia,5.6,1.5,AU,AUS,Oceania,0.944,83.4,22.0,12.7,48085.0,15,Yes,Australia and New Zealand
+Austria,5.3,1.8,AT,AUT,Europe,0.922,81.5,16.1,12.5,56197.0,-3,Yes,Western Europe
+Azerbaijan,6.7,4.0,AZ,AZE,Asia,0.756,73.0,12.9,10.6,13784.0,3,No,Western Asia
+Bahamas,14.9,10.6,BS,BHS,North America,0.814,73.9,12.9,11.4,33747.0,-17,No,Latin America and the Caribbean
+Bahrain,3.9,2.4,BH,BHR,Asia,0.852,77.3,16.3,9.5,42522.0,-12,No,Western Asia
+Bangladesh,10.6,6.7,BD,BGD,Asia,0.632,72.6,11.6,6.2,4976.0,7,No,Southern Asia
+Barbados,15.2,9.0,BB,BRB,North America,0.814,79.2,15.4,10.6,14936.0,20,Yes,Latin America and the Caribbean
+Belarus,11.4,4.2,BY,BLR,Europe,0.823,74.8,15.4,12.3,18546.0,14,No,Eastern Europe
+Belgium,7.7,2.0,BE,BEL,Europe,0.931,81.6,19.8,12.1,52085.0,6,No,Western Europe
+Belize,19.1,14.8,BZ,BLZ,North America,0.716,74.6,13.1,9.9,6382.0,18,Yes,Latin America and the Caribbean
+Benin,15.1,10.4,BJ,BEN,Africa,0.545,61.8,12.6,3.8,3254.0,0,No,Sub-Saharan Africa
+Bhutan,14.2,8.4,BT,BTN,Asia,0.654,71.8,13.0,4.1,10746.0,-21,Yes,Southern Asia
+"Bolivia, Plurinational State of",36.6,18.0,BO,BOL,South America,0.718,71.5,14.2,9.0,8554.0,9,Yes,Latin America and the Caribbean
+Bosnia and Herzegovina,14.3,5.2,BA,BIH,Europe,0.78,77.4,13.8,9.8,14872.0,7,No,Southern Europe
+Botswana,34.4,20.1,BW,BWA,Africa,0.735,69.6,12.8,9.6,16437.0,-27,Yes,Sub-Saharan Africa
+Brazil,12.7,6.3,BR,BRA,South America,0.765,75.9,15.4,8.0,14263.0,1,Yes,Latin America and the Caribbean
+Brunei Darussalam,20.8,5.7,BN,BRN,Asia,0.838,75.9,14.3,9.1,63965.0,-38,Yes,South-eastern Asia
+Bulgaria,18.0,7.1,BG,BGR,Europe,0.816,75.1,14.4,11.4,23325.0,2,Yes,Eastern Europe
+Burkina Faso,18.2,14.3,BF,BFA,Africa,0.452,61.6,9.3,1.6,2133.0,-9,No,Sub-Saharan Africa
+Burundi,49.3,38.5,BI,BDI,Africa,0.433,61.6,11.1,3.3,754.0,4,No,Sub-Saharan Africa
+Cabo Verde,17.0,10.5,CV,CPV,Africa,0.665,73.0,12.7,6.3,7019.0,-1,No,Sub-Saharan Africa
+Cambodia,14.0,8.3,KH,KHM,Asia,0.594,69.8,11.5,5.0,4246.0,3,No,South-eastern Asia
+Cameroon,33.7,23.4,CM,CMR,Africa,0.563,59.3,12.1,6.3,3581.0,1,Yes,Sub-Saharan Africa
+Canada,5.5,1.9,CA,CAN,North America,0.929,82.4,16.2,13.4,48527.0,5,Yes,Northern America
+Central African Republic,21.8,17.1,CF,CAF,Africa,0.397,53.3,7.6,4.3,993.0,0,No,Sub-Saharan Africa
+Chad,20.2,16.0,TD,TCD,Africa,0.398,54.2,7.3,2.5,1555.0,-5,No,Sub-Saharan Africa
+Chile,11.1,5.2,CL,CHL,South America,0.851,80.2,16.4,10.6,23261.0,16,No,Latin America and the Caribbean
+China,10.7,5.3,CN,CHN,Asia,0.761,76.9,14.0,8.1,16057.0,-11,No,Eastern Asia
+Colombia,14.9,7.4,CO,COL,South America,0.767,77.3,14.4,8.5,14257.0,3,Yes,Latin America and the Caribbean
+Comoros,56.0,39.8,KM,COM,Africa,0.554,64.3,11.2,5.1,3099.0,5,No,Sub-Saharan Africa
+"Congo, Democratic Republic of",31.9,23.7,CD,COD,Africa,0.48,60.7,9.7,6.8,1063.0,11,No,Sub-Saharan Africa
+"Congo, Republic of",22.4,14.2,CG,COG,Africa,0.574,64.6,11.7,6.5,2879.0,13,No,Sub-Saharan Africa
+Costa Rica,11.7,5.4,CR,CRI,North America,0.81,80.3,15.7,8.7,18486.0,6,Yes,Latin America and the Caribbean
+Croatia,10.1,3.2,HR,HRV,Europe,0.851,78.5,15.2,11.4,28070.0,6,Yes,Southern Europe
+Cuba,13.9,6.9,CU,CUB,North America,0.783,78.8,14.3,11.8,8621.0,45,No,Latin America and the Caribbean
+Cyprus,5.6,2.9,CY,CYP,Asia,0.887,81.0,15.2,12.2,38207.0,2,Yes,Western Asia
+Czechia,9.3,3.6,CZ,CZE,Europe,0.9,79.4,16.8,12.7,38109.0,9,Yes,Eastern Europe
+Côte d'Ivoire,31.2,22.8,CI,CIV,Africa,0.538,57.8,10.0,5.3,5069.0,-25,No,Sub-Saharan Africa
+Denmark,10.2,2.2,DK,DNK,Europe,0.94,80.9,18.9,12.6,58662.0,2,No,Northern Europe
+Djibouti,15.3,11.2,DJ,DJI,Africa,0.524,67.1,6.8,4.1,5689.0,-34,No,Sub-Saharan Africa
+Dominican Republic,17.9,11.7,DO,DOM,North America,0.756,74.1,14.2,8.1,17591.0,-18,Yes,Latin America and the Caribbean
+Ecuador,16.0,8.2,EC,ECU,South America,0.759,77.0,14.6,8.9,11044.0,19,No,Latin America and the Caribbean
+Egypt,2.9,1.7,EG,EGY,Africa,0.707,72.0,13.3,7.4,11466.0,-14,No,Northern Africa
+El Salvador,13.1,7.4,SV,SLV,North America,0.673,73.3,11.7,6.9,8359.0,-6,Yes,Latin America and the Caribbean
+Equatorial Guinea,32.8,21.3,GQ,GNQ,Africa,0.592,58.7,9.7,5.9,13944.0,-57,No,Sub-Saharan Africa
+Eritrea,15.3,11.4,ER,ERI,Africa,0.459,66.3,5.0,3.9,2793.0,-17,No,Sub-Saharan Africa
+Estonia,18.5,4.3,EE,EST,Europe,0.892,78.8,16.0,13.1,36019.0,9,Yes,Northern Europe
+Eswatini,84.5,55.7,SZ,SWZ,Africa,0.611,60.2,11.8,6.9,7919.0,-19,No,Sub-Saharan Africa
+Ethiopia,21.5,16.0,ET,ETH,Africa,0.485,66.6,8.8,2.9,2207.0,-3,No,Sub-Saharan Africa
+Fiji,29.8,20.7,FJ,FJI,Oceania,0.743,67.4,14.4,10.9,13009.0,1,Yes,Melanesia
+Finland,5.2,1.1,FI,FIN,Europe,0.938,81.9,19.4,12.8,48511.0,11,No,Northern Europe
+France,7.0,2.2,FR,FRA,Europe,0.901,82.7,15.6,11.5,47173.0,-1,Yes,Western Europe
+Gabon,30.8,16.4,GA,GAB,Africa,0.703,66.5,13.0,8.7,13930.0,-30,No,Sub-Saharan Africa
+Georgia,10.6,5.9,GE,GEO,Asia,0.812,73.8,15.3,13.1,14429.0,22,Yes,Western Asia
+Germany,7.6,2.2,DE,DEU,Europe,0.947,81.3,17.0,14.2,55314.0,11,Yes,Western Europe
+Ghana,27.4,17.8,GH,GHA,Africa,0.611,64.1,11.5,7.3,5269.0,-3,No,Sub-Saharan Africa
+Greece,8.0,2.2,GR,GRC,Europe,0.888,82.2,17.9,10.6,30155.0,14,Yes,Southern Europe
+Guatemala,20.3,11.9,GT,GTM,North America,0.663,74.3,10.8,6.6,8494.0,-10,Yes,Latin America and the Caribbean
+Guinea,50.1,37.2,GN,GIN,Africa,0.477,61.6,9.4,2.8,2405.0,-12,No,Sub-Saharan Africa
+Guinea-Bissau,39.6,30.3,GW,GNB,Africa,0.48,58.3,10.6,3.6,1996.0,1,No,Sub-Saharan Africa
+Guyana,29.5,15.1,GY,GUY,South America,0.682,69.9,11.4,8.5,9455.0,-10,Yes,Latin America and the Caribbean
+Haiti,11.6,9.0,HT,HTI,North America,0.51,64.0,9.7,5.6,1709.0,7,No,Latin America and the Caribbean
+Honduras,19.5,12.5,HN,HND,North America,0.634,75.3,10.1,6.6,5308.0,1,Yes,Latin America and the Caribbean
+Hungary,17.2,4.9,HU,HUN,Europe,0.854,76.9,15.2,12.0,31329.0,4,No,Eastern Europe
+Iceland,8.3,1.9,IS,ISL,Europe,0.949,83.0,19.1,12.8,54682.0,14,No,Northern Europe
+India,18.0,11.4,IN,IND,Asia,0.645,69.7,12.2,6.5,6681.0,-5,No,Southern Asia
+Indonesia,24.4,14.4,ID,IDN,Asia,0.718,71.7,13.6,8.2,11459.0,-4,No,South-eastern Asia
+"Iran, Islamic Republic of",2.3,1.5,IR,IRN,Asia,0.783,76.7,14.8,10.3,12447.0,26,No,Southern Asia
+Iraq,2.2,1.5,IQ,IRQ,Asia,0.674,70.6,11.3,7.3,10801.0,-16,No,Western Asia
+Ireland,10.7,2.8,IE,IRL,Europe,0.955,82.3,18.7,12.7,68371.0,4,No,Northern Europe
+Israel,4.9,2.0,IL,ISR,Asia,0.919,83.0,16.2,13.0,40187.0,14,Yes,Western Asia
+Italy,6.9,1.6,IT,ITA,Europe,0.892,83.5,16.1,10.4,42776.0,0,Yes,Southern Europe
+Jamaica,21.6,13.6,JM,JAM,North America,0.734,74.5,13.1,9.7,9319.0,13,Yes,Latin America and the Caribbean
+Japan,15.2,2.9,JP,JPN,Asia,0.919,84.6,15.2,12.9,42932.0,9,No,Eastern Asia
+Jordan,2.9,1.9,JO,JOR,Asia,0.729,74.5,11.4,10.5,9858.0,8,No,Western Asia
+Kazakhstan,15.7,7.2,KZ,KAZ,Asia,0.825,73.6,15.6,11.9,22857.0,9,No,Central Asia
+Kenya,31.3,20.6,KE,KEN,Africa,0.601,66.7,11.3,6.6,4244.0,5,Yes,Sub-Saharan Africa
+"Korea, Republic of",11.2,6.5,KR,KOR,Asia,0.916,83.0,16.5,12.2,43044.0,4,No,Eastern Asia
+"Korea, Republic of",8.1,1.8,KR,KOR,Asia,0.916,83.0,16.5,12.2,43044.0,4,No,Eastern Asia
+Kuwait,2.8,1.8,KW,KWT,Asia,0.806,75.5,14.2,7.3,58590.0,-51,No,Western Asia
+Kyrgyzstan,15.4,9.1,KG,KGZ,Asia,0.697,71.5,13.0,11.1,4864.0,23,No,Central Asia
+Lao People's Democratic Republic,12.0,6.7,LA,LAO,Asia,0.613,67.9,11.0,5.3,7413.0,-16,Yes,South-eastern Asia
+Latvia,18.4,6.8,LV,LVA,Europe,0.866,75.3,16.2,13.0,30282.0,8,Yes,Northern Europe
+Lebanon,3.4,2.0,LB,LBN,Asia,0.744,78.9,11.3,8.7,14655.0,-11,No,Western Asia
+Lesotho,56.8,38.7,LS,LSO,Africa,0.527,54.3,11.3,6.5,3151.0,-6,No,Sub-Saharan Africa
+Liberia,40.8,30.8,LR,LBR,Africa,0.48,64.1,9.6,4.8,1258.0,8,Yes,Sub-Saharan Africa
+Libya,7.7,4.9,LY,LBY,Africa,0.724,72.9,12.9,7.6,15688.0,-29,Yes,Northern Africa
+Lithuania,18.7,6.7,LT,LTU,Europe,0.882,75.9,16.6,13.1,35799.0,5,Yes,Northern Europe
+Luxembourg,5.2,1.8,LU,LUX,Europe,0.916,82.3,14.3,12.3,72712.0,-19,No,Western Europe
+Madagascar,41.2,29.0,MG,MDG,Africa,0.528,67.0,10.2,6.1,1596.0,16,No,Sub-Saharan Africa
+Malawi,67.9,51.5,MW,MWI,Africa,0.483,64.3,11.2,4.7,1035.0,13,Yes,Sub-Saharan Africa
+Malaysia,10.2,5.8,MY,MYS,Asia,0.81,76.2,13.7,10.4,27534.0,-11,Yes,South-eastern Asia
+Maldives,24.5,14.1,MV,MDV,Asia,0.74,78.9,12.2,7.0,17417.0,-24,Yes,Southern Asia
+Mali,36.4,28.3,ML,MLI,Africa,0.434,59.3,7.5,2.4,2269.0,-17,No,Sub-Saharan Africa
+Malta,3.7,1.1,MT,MLT,Europe,0.895,82.5,16.1,11.3,39555.0,6,Yes,Southern Europe
+Mauritania,28.9,20.3,MR,MRT,Africa,0.546,64.9,8.6,4.7,5135.0,-21,Yes,Sub-Saharan Africa
+Mauritius,12.6,5.2,MU,MUS,Africa,0.804,75.0,15.1,9.5,25266.0,-10,No,Sub-Saharan Africa
+Mexico,12.6,5.7,MX,MEX,North America,0.779,75.1,14.8,8.8,19160.0,-8,Yes,Latin America and the Caribbean
+Mongolia,19.7,11.6,MN,MNG,Asia,0.737,69.9,14.2,10.3,10839.0,7,No,Eastern Asia
+Montenegro,26.2,10.5,ME,MNE,Europe,0.829,76.9,15.0,11.6,21399.0,13,No,Southern Europe
+Morocco,10.4,5.8,MA,MAR,Africa,0.686,76.7,13.7,5.6,7368.0,1,Yes,Northern Africa
+Mozambique,50.2,38.7,MZ,MOZ,Africa,0.456,60.9,10.0,3.5,1250.0,3,No,Sub-Saharan Africa
+Myanmar,22.6,14.4,MM,MMR,Asia,0.583,67.1,10.7,5.0,4961.0,-6,No,South-eastern Asia
+Namibia,37.4,22.5,NA,NAM,Africa,0.646,63.7,12.6,7.0,9357.0,-17,No,Sub-Saharan Africa
+Nepal,16.4,11.1,NP,NPL,Asia,0.602,70.8,12.8,5.0,3457.0,13,No,Southern Asia
+New Zealand,5.6,2.0,NZ,NZL,Oceania,0.931,82.3,18.8,12.8,40799.0,18,Yes,Australia and New Zealand
+Nicaragua,21.3,12.6,NI,NIC,North America,0.66,74.5,12.3,6.9,5284.0,6,No,Latin America and the Caribbean
+Niger,10.4,8.4,NE,NER,Africa,0.394,62.4,6.5,2.1,1201.0,-4,No,Sub-Saharan Africa
+Nigeria,18.4,13.2,NG,NGA,Africa,0.539,54.7,10.0,6.7,4910.0,-19,No,Sub-Saharan Africa
+North Macedonia,7.5,3.6,MK,MKD,Europe,0.774,75.8,13.6,9.8,15865.0,-7,No,Southern Europe
+Norway,12.0,1.7,NO,NOR,Europe,0.957,82.4,18.1,12.9,66494.0,7,Yes,Northern Europe
+Oman,6.5,4.2,OM,OMN,Asia,0.813,77.9,14.2,9.7,25944.0,-5,No,Western Asia
+Pakistan,6.1,4.0,PK,PAK,Asia,0.557,67.3,8.3,5.2,5005.0,-15,No,Southern Asia
+Panama,14.0,7.5,PA,PAN,North America,0.815,78.5,12.9,10.2,29558.0,-10,Yes,Latin America and the Caribbean
+Papua New Guinea,29.2,19.1,PG,PNG,Oceania,0.555,64.5,10.2,4.7,4301.0,-10,No,Melanesia
+Paraguay,34.1,19.0,PY,PRY,South America,0.728,74.3,12.7,8.5,12224.0,-4,No,Latin America and the Caribbean
+Peru,22.2,11.5,PE,PER,South America,0.777,76.7,15.0,9.7,12252.0,19,Yes,Latin America and the Caribbean
+Philippines,15.2,7.9,PH,PHL,Asia,0.718,71.2,13.1,9.4,9778.0,4,Yes,South-eastern Asia
+Poland,12.3,5.9,PL,POL,Europe,0.88,78.7,16.3,12.5,31623.0,8,No,Eastern Europe
+Portugal,10.7,3.2,PT,PRT,Europe,0.864,82.1,16.5,9.3,33967.0,2,Yes,Southern Europe
+Qatar,4.1,2.9,QA,QAT,Asia,0.848,80.2,12.0,9.7,92418.0,-43,Yes,Western Asia
+Republic of Moldova,16.3,7.4,MD,MDA,Europe,0.75,71.9,11.5,11.7,13664.0,2,No,Eastern Europe
+Romania,22.6,9.6,RO,ROU,Europe,0.828,76.1,14.3,11.1,29497.0,-1,No,Eastern Europe
+Russian Federation,14.1,6.1,RU,RUS,Europe,0.824,72.6,15.0,12.2,26157.0,2,No,Eastern Europe
+Rwanda,28.2,20.1,RW,RWA,Africa,0.543,69.0,11.2,4.4,2155.0,12,No,Sub-Saharan Africa
+Saint Lucia,16.6,11.0,LC,LCA,North America,0.759,76.2,14.0,8.5,14616.0,-4,No,Latin America and the Caribbean
+Samoa,12.4,7.5,WS,WSM,Oceania,0.715,73.3,12.7,10.8,6309.0,19,No,Polynesia
+Sao Tome and Principe,16.0,13.1,ST,STP,Africa,0.625,70.4,12.7,6.4,3952.0,16,No,Sub-Saharan Africa
+Saudi Arabia,2.8,1.6,SA,SAU,Asia,0.854,75.1,16.1,10.2,47495.0,-16,No,Western Asia
+Senegal,36.3,26.0,SN,SEN,Africa,0.512,67.9,8.6,3.2,3309.0,-11,Yes,Sub-Saharan Africa
+Serbia,18.7,7.9,RS,SRB,Europe,0.806,76.0,14.7,11.2,17192.0,8,No,Southern Europe
+Sierra Leone,21.2,16.4,SL,SLE,Africa,0.452,54.7,10.2,3.7,1668.0,-4,No,Sub-Saharan Africa
+Singapore,6.9,3.3,SG,SGP,Asia,0.938,83.6,16.4,11.6,88155.0,-8,No,South-eastern Asia
+Slovakia,16.6,5.3,SK,SVK,Europe,0.86,77.5,14.5,12.7,32113.0,3,No,Eastern Europe
+Slovenia,6.7,2.4,SI,SVN,Europe,0.917,81.3,17.6,12.7,38080.0,15,Yes,Southern Europe
+Solomon Islands,25.4,16.4,SB,SLB,Oceania,0.567,73.0,10.2,5.7,2253.0,17,Yes,Melanesia
+South Africa,35.3,19.6,ZA,ZAF,Africa,0.709,64.1,13.8,10.2,12129.0,-14,No,Sub-Saharan Africa
+South Sudan,20.5,16.0,SS,SSD,Africa,0.433,57.9,5.3,4.8,2003.0,-10,No,Sub-Saharan Africa
+Spain,5.4,1.6,ES,ESP,Europe,0.904,83.6,17.6,10.3,40975.0,6,No,Southern Europe
+Sri Lanka,9.2,4.9,LK,LKA,Asia,0.782,77.0,14.1,10.6,12707.0,23,Yes,Southern Asia
+Sudan,8.7,6.2,SD,SDN,Africa,0.51,65.3,7.9,3.8,3829.0,-18,No,Northern Africa
+Suriname,23.7,14.1,SR,SUR,South America,0.738,71.7,13.2,9.3,14324.0,-13,No,Latin America and the Caribbean
+Sweden,10.4,1.8,SE,SWE,Europe,0.945,82.8,19.5,12.5,54508.0,12,Yes,Northern Europe
+Switzerland,3.4,1.0,CH,CHE,Europe,0.955,83.8,16.3,13.4,69394.0,3,Yes,Western Europe
+Syrian Arab Republic,2.8,1.9,SY,SYR,Asia,0.567,72.7,8.9,5.1,3613.0,2,No,Western Asia
+Tajikistan,8.2,5.2,TJ,TJK,Asia,0.668,71.1,11.7,10.7,3954.0,25,No,Central Asia
+"Tanzania, United Republic of",62.5,42.7,TZ,TZA,Africa,0.529,65.5,8.1,6.1,2600.0,2,No,Sub-Saharan Africa
+Thailand,16.4,7.4,TH,THA,Asia,0.777,77.2,15.0,7.9,17781.0,-10,Yes,South-eastern Asia
+Netherlands,6.9,1.4,NL,NLD,Europe,0.944,82.3,18.5,12.4,57707.0,6,Yes,Western Europe
+Gambia,42.9,33.9,GM,GMB,Africa,0.496,62.1,9.9,3.9,2168.0,-1,Yes,Sub-Saharan Africa
+Togo,19.1,13.8,TG,TGO,Africa,0.515,61.0,12.7,4.9,1602.0,12,No,Sub-Saharan Africa
+Trinidad and Tobago,19.8,11.9,TT,TTO,North America,0.796,73.5,13.0,11.0,26231.0,-14,Yes,Latin America and the Caribbean
+Tunisia,4.6,2.4,TN,TUN,Africa,0.74,76.7,15.1,7.2,10414.0,14,No,Northern Africa
+Turkey,4.8,2.2,TR,TUR,Asia,0.82,77.7,16.6,8.1,27701.0,-4,No,Western Asia
+Turkmenistan,14.9,8.9,TM,TKM,Asia,0.715,68.2,11.2,10.3,14909.0,-32,Yes,Central Asia
+Uganda,56.2,41.4,UG,UGA,Africa,0.544,63.4,11.4,6.2,2123.0,15,Yes,Sub-Saharan Africa
+Ukraine,14.3,5.6,UA,UKR,Europe,0.779,72.1,15.1,11.4,13216.0,19,No,Eastern Europe
+United Arab Emirates,6.2,3.9,AE,ARE,Asia,0.89,78.0,14.3,12.1,67462.0,-24,Yes,Western Asia
+United Kingdom,9.9,1.9,GB,GBR,Europe,0.932,81.3,17.5,13.2,46071.0,13,Yes,Northern Europe
+United States of America,6.2,2.1,US,USA,North America,0.926,78.9,16.3,13.4,63826.0,-7,Yes,Northern America
+Uruguay,11.7,5.6,UY,URY,South America,0.817,77.9,16.8,8.9,20064.0,9,Yes,Latin America and the Caribbean
+Uzbekistan,11.0,6.7,UZ,UZB,Asia,0.72,71.7,12.1,11.8,7142.0,17,Yes,Central Asia
+Vanuatu,17.1,14.9,VU,VUT,Oceania,0.609,70.5,11.7,7.1,3105.0,20,No,Melanesia
+"Venezuela, Bolivarian Republic of",22.2,12.5,VE,VEN,South America,0.711,72.1,12.8,10.3,7045.0,11,No,Latin America and the Caribbean
+Viet Nam,6.6,3.4,VN,VNM,Asia,0.704,75.4,12.7,8.3,7433.0,3,No,South-eastern Asia
+Yemen,2.5,1.8,YE,YEM,Asia,0.47,66.1,8.8,3.2,1594.0,2,No,Western Asia
+Zambia,65.5,43.4,ZM,ZMB,Africa,0.584,63.9,11.5,7.2,3326.0,10,Yes,Sub-Saharan Africa
+Zimbabwe,61.7,43.0,ZW,ZWE,Africa,0.571,61.5,11.0,8.5,2666.0,14,No,Sub-Saharan Africa
