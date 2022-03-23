@@ -11,47 +11,62 @@ I'm interested in the intersection of social impact and data science, and I want
 
 This is just the beginning of my data science journey, and as I progress, I am excited to add projects to my portfolio which are more related to my interests. Watch this space!
 
-### Project 1: [Transfer Learning with VGG16 Convolutional Neural Network to Classify Traffic Signs](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf)
+-----
+
+### Project 1: [CNN Transfer Learning to Classify Traffic Signs](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf)
 
 ![image](https://user-images.githubusercontent.com/73396449/157452389-8f33cf8d-4cfe-48ec-9b7b-8495d570ddb4.png)
 
-As vehicles become more autonomous, there is an increasing demand in the automobile industry for driver assistance systems that can identify and classify road signs quickly and accurately. The aim of this project was to create a classifier, using a pre-trained convolutional neural network, that can effectively classify images from the German Traffic Sign Recognition Benchmark dataset. 
+As vehicles become more autonomous, there is an increasing demand in the automobile industry for driver assistance systems that can identify and **classify road signs quickly and accurately**. The aim of this project was to create a classifier, using a **pre-trained convolutional neural network**, that can effectively classify images from the **German Traffic Sign Recognition Benchmark dataset**. 
 
-The convolutional base of the popular VGG16 model was used for feature extraction while the top fully connected layers were retrained with the GTSRB dataset and the hyperparameters were fine-tuned to further improve the model. The results show that the best-performing model in this experiment achieved an accuracy of 82.98%. As the dataset is quite imbalanced, future work could improve on this result by augmenting the images in the smaller classes to create a more balanced dataset.
+The convolutional base of the popular **VGG16 model** was used for feature extraction while the top fully connected layers were retrained with the GTSRB dataset and the **hyperparameters were fine-tuned** to further improve the model. The results show that the best-performing model in this experiment achieved an **accuracy of 82.98%**. As the dataset is quite imbalanced, future work could improve on this result by augmenting the images in the smaller classes to create a more balanced dataset.
 
-The architecture of the best-performing model is shown below.
+A poster accompanying the project can be found [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf), and [this paper](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Paper%20for%20Transfer%20Learning%20Project.pdf) further explains the methodology. The code for the best-performing model can be reviewed [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/ML_Model_E%20(FINAL%20MODEL).ipynb), and the architecture of this model is shown below.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73396449/157449841-3084082f-89e6-44d5-b87b-a9fa85a32a8a.png" height="400"">
-</p>
-                                                                                                                              
-Skills demonstrated: *Google Colab, TensorFlow, Keras, Transfer Learning, Convolutional Neural Network, Machine Learning*
 
+**Skills demonstrated: *TensorFlow, Keras, Transfer Learning, Convolutional Neural Network, Machine Learning, Google Colab***
+
+![Architecture of best-performing CNN model](https://user-images.githubusercontent.com/73396449/159645550-836a0dfb-828a-4cbd-8cd6-b9854d8e37bf.jpg "Architecture of best-performing CNN model")
+
+
+-----
 ### Project 2: [Dashboard of Global Disparities in Cervical Cancer Rates](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)
 
+Description coming soon.
+
+-----
 ### Project 3: [Latent Semantic Analysis: Applied Linear Algebra in Natural Language Understanding](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb)                                                                                                                          
 
 ![image](https://user-images.githubusercontent.com/73396449/159176567-92ee61b6-9233-4385-b957-ad8e0cfe9a87.png)
 
                  
-The aim of this project was to describe how linear algebra can be applied to topic modelling in Natural Language Understanding (NLU). NLU is a subfield of Natural Language Processing (NLP), and the goal of NLU is to use computer algorithms to not just process text data, but to make sense of natural language data as it is spoken and written like a human would. NLU has many diverse real-world applications, including voice-controlled assistants like Apple’s Siri, customer service chatbots, and machine translators. NLU is an important subset of machine learning as it allows us to analyse and gain understanding from large bodies of unstructured data.
+The aim of this project was to describe how **linear algebra can be applied to topic modelling in Natural Language Understanding (NLU)**. NLU is a subfield of Natural Language Processing (NLP), and the goal of NLU is to use computer algorithms to not just process text data, but to make sense of natural language data as it is spoken and written like a human would. 
 
-Topic modelling is a NLU text-mining technique for extracting topics from text, and it can be used for information retrieval, categorizing documents and exploratory analysis of text datasets. It assumes that documents contain different topics, and these topics are made up of a collection of words. A foundational method of topic modelling is Latent Semantic Analysis (LSA) which is an unsupervised machine learning technique that was introduced by Deerwester et al. (1990) as a way of analysing a text corpus (a large collection of texts) to discover the hidden or latent topics in it. This method differs from traditional NLP as it uses statistical techniques and linear algebra to analyse text, rather than relying on any specification of rules or dictionaries, and it is based on the principle of distributional hypothesis - words that have similar meanings occur in analogous segments of text.
+Topic modelling is a NLU text-mining technique for extracting topics from text, and it can be used for **information retrieval, categorizing documents and exploratory analysis of text datasets**. It assumes that documents contain different topics, and these topics are made up of a collection of words. A foundational method of topic modelling is **Latent Semantic Analysis (LSA)** which is an unsupervised machine learning technique of analysing a text corpus (a large collection of texts) to **discover the hidden or latent topics** in it. This method differs from traditional NLP as it uses **statistical techniques and linear algebra** to analyse text, rather than relying on any specification of rules or dictionaries, and it is based on the principle of distributional hypothesis - words that have similar meanings occur in analogous segments of text.
 
 There are two main steps in conducting LSA:
 
-- Construction of a term-document matrix.
-- Dimensionality reduction of this matrix using Singular Value Decomposition (SVD). This process produces a topic-document matrix and a topic-term matrix.
+1. Construction of a term-document matrix.
+2. Dimensionality reduction of this matrix using **Singular Value Decomposition (SVD)**. This process produces a topic-document matrix and a topic-term matrix.
 
-To illustrate each of the steps involved in using LSA to uncover themes across documents, titles and abstracts from ten recent research papers were analyzed in this project. The papers are all related to ‘anticipatory action’ (an emerging approach to disaster risk reduction), and they were chosen by selecting the first ten results from searching for the keywords “anticipatory action” on Google Scholar and filtering the results for only papers published in 2021.
+To illustrate each of the steps involved in using LSA to quickly uncover themes across documents, text from the **titles and abstracts from ten recent research papers** were analyzed in this project. The papers are all related to **‘anticipatory action’** - an emerging approach to disaster risk reduction). Below are word clouds showing the **10 most prominent words** related to the top 2 topics that were uncovered from the text. 
 
-Skills demonstrated: *Natural Language Processing (NLP), Natural Language Toolkit (NLTK), Text-Mining, Latent Semantic Analysis*
+You can review the code and read more about the theory, process and results in this  [notebook](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb).
 
+
+**Skills demonstrated: *Natural Language Processing (NLP), Natural Language Toolkit (NLTK), Text-Mining, Text Preprocessing, Latent Semantic Analysis***
+
+![topic_1](https://user-images.githubusercontent.com/73396449/159646507-6a66cfce-8b3b-403d-826f-077acd7069c3.jpg)      ![topic_2](https://user-images.githubusercontent.com/73396449/159647139-05bcd907-4934-4c65-a554-4ed2ff636d1b.jpg) 
+
+
+
+
+-----
 ### Project 4: [Exploring Factors Related to Global Rates of COVID-19](https://github.com/Amy-Reidy/Portfolio/blob/main/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19..ipynb)
 
 ![Alarming gap in global response to COVID-19](https://user-images.githubusercontent.com/73396449/123540825-3bbcb100-d741-11eb-84f9-0d0b61a7fda3.jpg)
 
-I created this project as my final assignment for the 'Introductory Programming for Data Science' module of my master's program in May 2021.
+I created this project as my final assignment for the 'Programming for Data Science' module of my master's program.
 
 There were two goals of the project:\
 **1. Test the claim that female-led countries have lower rates of COVID-19.**\
@@ -67,11 +82,11 @@ After the data was pre-processed, it was merged into a SQL database which was qu
 Skills demonstrated: *pandas, numpy, sklearn, tensorflow, sqlite3, scipy.stats,  matplotlib, seaborn, requests, BeautifulSoup, geopy, folium*
 
 
-
+-----
 ### Project 5: ["Has COVID-19 affected the world's happiness and wellbeing?"](https://github.com/Amy-Reidy/Portfolio-by-Amy-Reidy/blob/main/World%20Happiness%20and%20Wellbeing%20-%20Stats%20Project/World%20Happiness%20and%20Wellbeing%20Project.ipynb)
 ![Beyond-Catastrophe](https://user-images.githubusercontent.com/73396449/123085318-6269a780-d422-11eb-85a9-babc7d78552b.jpg)
 
-This is another project that I completed for my master's program, this time for the 'Statistics and Applied Probability' module. I used data from the World Happiness Report 2021 to test the following hypotheses:
+This is a project I undertook for a module on 'Statistics and Applied Probability' and I used data from the World Happiness Report 2021 to test the following hypotheses:
  1.	Global happiness scores decreased from 2019 to 2020. 
  2.	Positive emotions decreased globally from 2019 to 2020. 
  3.	Negative emotions increased globally from 2019 to 2020.
@@ -94,5 +109,6 @@ Data was sourced by web-scraping Wikipedia, extracting information about various
 
 The K-means machine learning model was used to group the neighborhoods into clusters based on the density of Indian restaurants in each neighborhood.
 
-Skills demonstrated: *pandas, numpy, sklearn, matplotlib, seaborn, requests, geopy, folium, wikipedia, yellowbrick*
+**Skills demonstrated: *pandas, numpy, sklearn, matplotlib, seaborn, requests, geopy, folium, wikipedia, yellowbrick***
+
 
