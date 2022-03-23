@@ -93,7 +93,7 @@ This is a project I undertook for a module on 'Statistics and Applied Probabilit
 
 As the differences between the samples were not normally distributed and had significant outliers, I decided to use a non-parametric test (Wilcoxon signed-rank test), rather than the paired T-test which is usually used for comparing paired samples. 
 
-Skills demonstrated: ***Hypothesis Testing, Advanced Statistics, Pandas, Numpy, SciPy, Matplotlib, Seaborn* 
+Skills demonstrated: ***Hypothesis Testing, Advanced Statistics, Pandas, Numpy, SciPy, Matplotlib, Seaborn*** 
 
 
 
