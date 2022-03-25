@@ -106,7 +106,8 @@ Libraries used: ***Pandas, Numpy, SciPy, Matplotlib, Seaborn***
 
 ### Project 6: [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
 
-![shutterstock_573575497___Super_Portrait](https://user-images.githubusercontent.com/73396449/123547450-22c3f800-d761-11eb-9bd9-61e6df04b868.jpg)
+![image](https://user-images.githubusercontent.com/73396449/160131823-895a8c41-faa0-44d6-b1cd-920b531ccc7b.png)
+
 
 This was my first ever data science project, which I did as a capstone project for [IBM's Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=10-IBM-Data-Science-ROW&adgroupid=116274867101&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506892807488&hide_mobile_promo&gclid=Cj0KCQjw5auGBhDEARIsAFyNm9H3qhF5Sg8y6oWRoxM86ZqMkHP_gaTK_Y1x9O8FKXRNscBTeqVRav8aAttWEALw_wcB) in November 2020.
 
