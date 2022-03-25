@@ -24,7 +24,9 @@ The convolutional base of the popular **VGG16 model** was used for feature extra
 A poster accompanying the project can be found [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf), and [this paper](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Paper%20for%20Transfer%20Learning%20Project.pdf) further explains the methodology. The code for the best-performing model can be reviewed [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/ML_Model_E%20(FINAL%20MODEL).ipynb), and the architecture of this model is shown below.
 
 
-Skills demonstrated: ***TensorFlow, Keras, Transfer Learning, Convolutional Neural Network, Machine Learning, Google Colab***
+Skills demonstrated: ***Transfer Learning, Convolutional Neural Networks, Model Hyper-tuning, Model Validation***
+
+Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 
 ![Architecture of best-performing CNN model](https://user-images.githubusercontent.com/73396449/159645550-836a0dfb-828a-4cbd-8cd6-b9854d8e37bf.jpg "Architecture of best-performing CNN model")
 
@@ -54,7 +56,9 @@ To illustrate each of the steps involved in using LSA to quickly uncover themes 
 You can review the code and read more about the theory, process and results in this  [notebook](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb).
 
 
-Skills demonstrated: ***Natural Language Processing (NLP), Natural Language Toolkit (NLTK), Text-Mining, Text Preprocessing, Latent Semantic Analysis***
+Skills demonstrated: ***Natural Language Processing (NLP),  Text-Mining, Text Preprocessing, Latent Semantic Analysis***
+
+Libraries used: ***Natural Language Toolkit (NLTK), TfidfVectorizer, CountVectorizer, TruncatedSVD, Pandas, Numpy, Matplotlib***
 
 ![topic_1](https://user-images.githubusercontent.com/73396449/159646507-6a66cfce-8b3b-403d-826f-077acd7069c3.jpg)      ![topic_2](https://user-images.githubusercontent.com/73396449/159647139-05bcd907-4934-4c65-a554-4ed2ff636d1b.jpg) 
 
@@ -75,12 +79,13 @@ There were two goals of the project:\
 **2. Create a linear regression model to predict rates of COVID-19 in countries around the world.**\
    I created multiple linear regression models using TensorFlow and Scikit-learn and compared the results. Note: these are quite simple models, as the course’s main objective was to introduce Python programming and there was only a very brief introduction to machine learning.
    
-The data for COVID-19 rates around the world was retrieved by sending an API request to 'https://api.covid19api.com/summary'. Data for population and global rates of smoking, obesity, and life expectancy was sourced from csv files on https://ourworldindata.org/. Information about which countries are part of the OECD was retrieved from [https://www.oecd.org/](https://www.oecd.org/newsroom/global-oecd-welcomes-colombia-as-its-37th-member.htm#:~:text=The%20OECD's%2037%20members%20are,Poland%2C%20Portugal%2C%20Slovak%20Republic%2C). And to get a list of countries that have had a female leader for the COVID-19 outbreak, I used BeautifulSoup to web-scrape a table with female heads of state and government from [Wikipedia](https://en.wikipedia.org/wiki/List_of_elected_and_appointed_female_heads_of_state_and_government).  
+The data for COVID-19 rates around the world was retrieved by sending an API request to 'https://api.covid19api.com/summary'. Data for population and global rates of smoking, obesity, and life expectancy was sourced from csv files on [ourworldindata.org](https://ourworldindata.org/). Information about which countries are part of the OECD was retrieved from [https://www.oecd.org/](https://www.oecd.org/newsroom/global-oecd-welcomes-colombia-as-its-37th-member.htm#:~:text=The%20OECD's%2037%20members%20are,Poland%2C%20Portugal%2C%20Slovak%20Republic%2C). And to get a list of countries that have had a female leader for the COVID-19 outbreak, I used BeautifulSoup to web scrape a table with female heads of state and government from [Wikipedia](https://en.wikipedia.org/wiki/List_of_elected_and_appointed_female_heads_of_state_and_government).  
 
 After the data was pre-processed, it was merged into a SQL database which was queried to extract information into dataframes 
 
-Skills demonstrated: ***Pandas, Numpy, Scikit-learn, TensorFlow, SQLite3, Scipy.stats,  Matplotlib, Seaborn, Requests, BeautifulSoup, Geopy, Folium***
+Skills demonstrated: ***Hypothesis Testing, Advanced Statistics, Linear Regression, Web Scraping, SQL, Data Visualisation, Data Wrangling***
 
+Tools used: ***Pandas, Numpy, Scikit-learn, TensorFlow, SQLite3, Scipy.stats,  Matplotlib, Seaborn, Requests, BeautifulSoup, Geopy, Folium***
 
 -----
 ### Project 5: ["Has COVID-19 affected the world's happiness and wellbeing?"](https://github.com/Amy-Reidy/Portfolio-by-Amy-Reidy/blob/main/World%20Happiness%20and%20Wellbeing%20-%20Stats%20Project/World%20Happiness%20and%20Wellbeing%20Project.ipynb)
@@ -93,7 +98,9 @@ This is a project I undertook for a module on 'Statistics and Applied Probabilit
 
 As the differences between the samples were not normally distributed and had significant outliers, I decided to use a non-parametric test (Wilcoxon signed-rank test), rather than the paired T-test which is usually used for comparing paired samples. 
 
-Skills demonstrated: ***Hypothesis Testing, Advanced Statistics, Pandas, Numpy, SciPy, Matplotlib, Seaborn*** 
+Skills demonstrated: ***Hypothesis Testing, Advanced Statistics, Data Wrangling, Data Visualisation*** 
+
+Libraries used: ***Pandas, Numpy, SciPy, Matplotlib, Seaborn***
 
 
 
@@ -105,10 +112,12 @@ This was my first ever data science project, which I did as a capstone project f
 
 The aim of the project was to investigate where would be a suitable location for a new Indian restaurant in Toronto, based on the density of existing Indian restaurants and the number of Indian residents in each neighborhood.
 
-Data was sourced by web-scraping Wikipedia, extracting information about various venues in Toronto and their geospatial information using Foursquare’s API, and obtaining geospatial for Toronto from “https://cocl.us/Geospatial_data”.
+Data was sourced by web scraping Wikipedia, extracting information about various venues in Toronto and their geospatial information using Foursquare’s API, and obtaining geospatial for Toronto from “https://cocl.us/Geospatial_data”.
 
 The K-means machine learning model was used to group the neighborhoods into clusters based on the density of Indian restaurants in each neighborhood.
 
-Skills demonstrated: ***Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Requests, Geopy, Folium, Wikipedia, Yellowbrick***
+Skills demonstrated: ***Unsupervised Machine Learning, Clustering, K-Means, Web Scraping, Data Wrangling, Data Cleansing** 
+
+Tools used: ***Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Requests, Geopy, Folium, Wikipedia, Yellowbrick***
 
 
