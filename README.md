@@ -3,11 +3,13 @@
 ![IMG_20210427_103513 (1)](https://user-images.githubusercontent.com/73396449/123549631-227c2a80-d76a-11eb-8cb7-7395ca88872e.jpg)
 
 
-I'm an educator, humanitarian, global nomad, lifelong learner, goal-digger, Sudoku enthusiast and now an aspiring data scientist. 
+I'm a social impact advisor, lifelong learner and data enthusiast with a passion for helping others, learning about different cultures and taking on new challenges.
 
-I have an MA in Education and International Development, I'm trained in monitoring and evaluation, and I have worked in the non-profit and private sectors in 4 continents over the past 10 years. I am currently based in Germany where I'm studying an online master’s in data science. 
+I have an MA in Education and International Development, I'm trained in monitoring, evaluation and learning (MEL), and I have worked in the non-profit and private sectors in 4 continents for over 10 years. 
 
-I'm interested in the intersection of social impact and data science, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in working on challenges related to migration and displacement, gender equality, children's rights, and equity in public health and education.
+I am currently based in Ireland where I'm studying an MSc in Data Science with Atlantic Technological University. I also volunteer as a Data Scientist with an NGO working in sustainable rural development in Vietnam and as a Data & Evaluation Manager with an organization running surf craftmanship and drama workshops for children in Sub-Saharan Africa.
+
+I'm interested in the intersection of social impact and data science/analytics, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in working on challenges related to poverty alleviation, migration and displacement, gender equality, children's rights, and equity in public health and education.
 
 This is just the beginning of my data science journey, and as I progress, I am excited to add projects to my portfolio which are more related to my interests. Watch this space!
 
