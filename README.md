@@ -36,6 +36,8 @@ Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 -----
 ### Project 2: [Dashboard of Global Disparities in Cervical Cancer Rates](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)
 
+![image](https://user-images.githubusercontent.com/73396449/180845556-4f197fce-6f9e-4060-94b1-9027f2e12b1a.png)
+
 https://amyreidy.pythonanywhere.com/
 
 ![Screenshot](https://user-images.githubusercontent.com/73396449/180840916-f2cdfd03-bcda-43ed-8f59-5b345ed602e2.JPG)
