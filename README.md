@@ -36,7 +36,13 @@ Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 -----
 ### Project 2: [Dashboard of Global Disparities in Cervical Cancer Rates](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)
 
-Description coming soon.
+https://amyreidy.pythonanywhere.com/
+
+![Screenshot](https://user-images.githubusercontent.com/73396449/180840916-f2cdfd03-bcda-43ed-8f59-5b345ed602e2.JPG)
+
+Skills demonstrated: ***Data Visualisation, Data Mining, Data Wrangling, Dashboard Creation, App Deployment***
+
+Libraries used: ***Plotly, Dash, Flask, Pandas, Numpy, ***
 
 -----
 ### Project 3: [Latent Semantic Analysis: Applied Linear Algebra in Natural Language Understanding](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb)                                                                                                                          
