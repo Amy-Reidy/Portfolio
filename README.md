@@ -38,13 +38,15 @@ Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 
 ![image](https://user-images.githubusercontent.com/73396449/180845556-4f197fce-6f9e-4060-94b1-9027f2e12b1a.png)
 
-https://amyreidy.pythonanywhere.com/
+Full description of project coming soon!
+
+Check out the dashboard here: https://amyreidy.pythonanywhere.com/
 
 ![Screenshot](https://user-images.githubusercontent.com/73396449/180840916-f2cdfd03-bcda-43ed-8f59-5b345ed602e2.JPG)
 
 Skills demonstrated: ***Data Visualisation, Data Mining, Data Wrangling, Dashboard Creation, App Deployment***
 
-Libraries used: ***Plotly, Dash, Flask, Pandas, Numpy, ***
+Libraries used: ***Plotly, Dash, Flask, Pandas, Numpy***
 
 -----
 ### Project 3: [Latent Semantic Analysis: Applied Linear Algebra in Natural Language Understanding](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb)                                                                                                                          
