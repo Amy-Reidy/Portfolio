@@ -38,9 +38,24 @@ Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 
 ![image](https://user-images.githubusercontent.com/73396449/180845556-4f197fce-6f9e-4060-94b1-9027f2e12b1a.png)
 
-Full description of project coming soon!
+The goal of this project was to **increase awareness of global inequalities in cervical cancer incidence and mortality rates** by exploring and visualizing data related to this disease. 
 
-Check out the dashboard here: https://amyreidy.pythonanywhere.com/
+Cervical cancer (CC) is the **fourth most common cancer affecting women**, but thankfully the number of incidences and the mortality rates of cervical cancer have been slowly decreasing in the past few decades. However, in some countries (such as Lesotho, Zimbabwe, and Bulgaria) the number of new cases is actually increasing, and **women in low-resource settings are still disproportionately affected by cervical cancer** (Zhang et al., 2021). This is partly due to low-income and middle-income countries (LMICs) having less access to preventative services compared to richer countries, as well as less access to treatment for the later stages of the disease (Anaman-Torgbor et al., 2020). As a result, there are much higher mortality rates in these countries, and of the 310,00 women who died of this disease in 2018, **90% were living in LMICs** (Fray et al., 2020). A full literature review for this project can be viewed [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Literature%20Review%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.pdf).
+
+To visualize the data that I collected and combined together, I created an **interactive dashboard using Plotly and Dash**, and you can see the full data preparation steps and Python code for the project in this **[Jupyter notebook](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)**. 
+
+The dashboard can be viewed at **https://amyreidy.pythonanywhere.com/** and it allows the user to explore the data by visualizing either **incidence or mortality rates**, and by **aggregating by either continent or sub-region**. 
+
+The dashboard contains four different visualizations:
+
+1.	**Sunburst chart** – when a user clicks on the continent/sub-region, the chart shows the CC rate for each of the countries in that location when the user hovers over the country. The size and colour of the slice shows how the rate compares to other countries in that geographical area.
+
+2.	**Bar chart** – this graph shows the average CC rates by continent or sub-region. Evidently, Africa has the highest average rates of both mortality and incidence rates. However, when the data is disaggregated by sub-region, we see that there is a lot of disparity within the continent as North Africa has relatively low CC rates, whereas Sub-Saharan Africa has the highest rates in the world. Similarly, we can see extreme disparity in Oceania with Australia and New Zealand having some of the lowest rates while Melanesia has the second highest incidence and mortality rates. This suggests that a weighted average could be more suitable for this type of visualization in the future.
+
+3.	**World map** – this chart shows a geographical visualization of the CC rates for each country, with the value of CC rates being represented by the color scale and the marker size. When the user hovers over each country, more information is displayed in the text box. It is very clear from the map that the highest CC rates are found in Sub-Saharan African countries.
+
+4.	**Scatter plot** - this chart shows the relationship between CC rates and other social indicators, and the user can change the indicator being displayed by clicking on the x-axis. The size of the markers is based on the CC rate (higher rates have bigger markers), and the markers are coloured purple or red based on if the country had a national HPV vaccination program as of 17th August 2021. Two regression lines have been added to the plot, one for the countries with a national vaccination program and one for the countries without a program. The regression lines show that CC rates are generally more negatively correlated with the social indicators when there is a vaccination program in place - e.g., the higher the Human Development Index (HDI) of a country, the lower the CC rates. However, when there is not a program, these social indicators are less correlated with CC rates. 
+
 
 ![Screenshot](https://user-images.githubusercontent.com/73396449/180840916-f2cdfd03-bcda-43ed-8f59-5b345ed602e2.JPG)
 
