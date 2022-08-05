@@ -44,7 +44,7 @@ Cervical cancer (CC) is the **fourth most common cancer affecting women**, but t
 
 To visualize the data that I collected and combined together, I created an **interactive dashboard using Plotly and Dash**, and you can see the full data preparation steps and Python code for the project in this **[Jupyter notebook](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)**. 
 
-The dashboard can be viewed at **https://amyreidy.pythonanywhere.com/** and it allows the user to explore the data by visualizing either **incidence or mortality rates**, and by **aggregating by either continent or sub-region**. 
+The dashboard can be viewed at **[amyreidy.pythonanywhere.com/](https://amyreidy.pythonanywhere.com/)** and it allows the user to explore the data by visualizing either **incidence or mortality rates**, and by **aggregating by either continent or sub-region**. 
 
 The dashboard contains four different visualizations:
 
