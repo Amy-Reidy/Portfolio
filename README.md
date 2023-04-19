@@ -3,15 +3,15 @@
 ![IMG_20210427_103513 (1)](https://user-images.githubusercontent.com/73396449/123549631-227c2a80-d76a-11eb-8cb7-7395ca88872e.jpg)
 
 
-I'm a social impact advisor, lifelong learner and data enthusiast with a passion for helping others, learning about different cultures and taking on new challenges.
+Hi there! I am a curious researcher, data enthusiast, and lifelong learner with a passion for social impact. I am always eager to learn about different cultures and take on new challenges to broaden my knowledge and skills.
 
-I have an MA in Education and International Development, I'm trained in monitoring, evaluation and learning (MEL), and I have worked in the non-profit and private sectors in 4 continents for over 10 years. 
+I hold an MA in Education and International Development, and I'm trained in monitoring, evaluation and learning (MEL). Over the past 10 years, I have worked in the non-profit and private sectors across 4 continents. Recently, I completed my Master's in Data Science (with my thesis project to be added to my portfolio soon). Currently, I'm based in Istanbul and working as a Data Analysis and Visualization Specialist for UNICEF's ECARO office.
 
-I am currently based in Ireland where I'm studying an MSc in Data Science with Atlantic Technological University. I also volunteer as a Data Scientist with an NGO working in sustainable rural development in Vietnam and as a Data & Evaluation Manager with an organization running surf craftmanship and drama workshops for children in Sub-Saharan Africa.
+In addition to my role with UNICEF, I am also actively involved as a Data Scientist with an NGO working in sustainable rural development in Vietnam and as a Data & Evaluation Manager with an organization running surf craftmanship and drama workshops for children in Sub-Saharan Africa.
 
-I'm interested in the intersection of social impact and data science/analytics, and I want to use data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in working on challenges related to poverty alleviation, migration and displacement, gender equality, children's rights, and equity in public health and education.
+My interests lie at the intersection of social impact and data science/analytics, and I am keen on leveraging data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in challenges related to poverty alleviation, migration and displacement, gender equality, children’s rights, and equity in public health and education.
 
-This is just the beginning of my data science journey, and as I progress, I am excited to add projects to my portfolio which are more related to my interests. Watch this space!
+As I continue to progress in my data science journey, I'm excited to add more projects to my portfolio that align with my interests. So, watch this space!
 
 -----
 
@@ -40,7 +40,7 @@ Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 
 The goal of this project was to **increase awareness of global inequalities in cervical cancer incidence and mortality rates** by exploring and visualizing data related to this disease. 
 
-Cervical cancer (CC) is the **fourth most common cancer affecting women**, but thankfully the number of incidences and the mortality rates of cervical cancer have been slowly decreasing in the past few decades. However, in some countries (such as Lesotho, Zimbabwe, and Bulgaria) the number of new cases is actually increasing, and **women in low-resource settings are still disproportionately affected by cervical cancer** (Zhang et al., 2021). This is partly due to low-income and middle-income countries (LMICs) having less access to preventative services compared to richer countries, as well as less access to treatment for the later stages of the disease (Anaman-Torgbor et al., 2020). As a result, there are much higher mortality rates in these countries, and of the 310,000 women who died of this disease in 2018, **90% were living in LMICs** (Fray et al., 2020). A full literature review for this project can be viewed [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Literature%20Review%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.pdf).
+Cervical cancer (CC) is the **fourth most common cancer affecting women**, but thankfully the number of incidences and the mortality rates of cervical cancer have been slowly decreasing in the past few decades. However, in some countries (such as Lesotho, Zimbabwe, and Bulgaria) the number of new cases is actually increasing, and **women in low-resource settings are still disproportionately affected by cervical cancer** (Zhang et al., 2021). This is partly due to low-income and middle-income countries (LMICs) having less access to preventative services compared to richer countries, as well as less access to treatment for the later stages of the disease (Anaman-Torgbor et al., 2020). As a result, there are much higher mortality rates in these countries, and of the 310,000 women who died of this disease in 2018, **90% were living in LMICs** (Fray et al., 2020). A full literature review for this project can be viewed [here](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Global%20Disparities%20in%20Cervical%20Cancer.pdf).
 
 To visualize the data that I collected and combined together, I created an **interactive dashboard using Plotly and Dash**, and you can see the full data preparation steps and Python code for the project in this **[Jupyter notebook](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)**. 
 
