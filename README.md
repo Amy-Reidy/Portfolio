@@ -3,15 +3,17 @@
 ![IMG_20210427_103513 (1)](https://user-images.githubusercontent.com/73396449/123549631-227c2a80-d76a-11eb-8cb7-7395ca88872e.jpg)
 
 
-Hi there! I am a curious researcher, data enthusiast, and lifelong learner with a passion for social impact. I am always eager to learn about different cultures and take on new challenges to broaden my knowledge and skills.
+Welcome to my portfolio! As a passionate researcher and data enthusiast, my journey is fueled by an unwavering commitment to learning and a drive to find innovative solutions to development and humanitarian challenges. This quest has led me to the fascinating fields of data science and international development, continually broadening my knowledge and honing my skills.
 
-I hold an MA in Education and International Development, and I'm trained in monitoring, evaluation and learning (MEL). Over the past 10 years, I have worked in the non-profit and private sectors across 4 continents. Recently, I completed my Master's in Data Science (with my thesis project to be added to my portfolio soon). Currently, I'm based in Istanbul and working as a Data Analysis and Visualization Specialist for UNICEF's ECARO office.
+In November 2023, I graduated with first-class honors from Atlantic Technological University, earning a Master's degree in Data Science. This accomplishment was a significant addition to my academic background, which also includes a Master's in Education and International Development. With over ten years of diverse experience across four continents in the non-profit and private sectors, my career has been a testament to my adaptability and broad perspective.
 
-In addition to my role with UNICEF, I am also actively involved as a Data Scientist with an NGO working in sustainable rural development in Vietnam and as a Data & Evaluation Manager with an organization running surf craftmanship and drama workshops for children in Sub-Saharan Africa.
+Currently, I'm contributing remotely from Italy as a Data Ingestion and Analytics Consultant for UNICEF's ECARO office. My role revolves around managing and enhancing the ETL processes for the TransMonEE Regional Database for Children, and developing the TransMonEE Dashboard using Dash and Python. This position allows me to blend my technical acumen with a deep-seated desire to impact children's rights monitoring through data.
 
-My interests lie at the intersection of social impact and data science/analytics, and I am keen on leveraging data to help non-profits and governments to analyze, visualize and solve social issues around the world. I'm particularly interested in challenges related to poverty alleviation, migration and displacement, gender equality, children’s rights, and equity in public health and education.
+At the intersection of social impact and data science, my interests are varied but focused. I am especially drawn to addressing issues in poverty alleviation, migration, gender equality, children’s rights, and public health and education equity.
 
-As I continue to progress in my data science journey, I'm excited to add more projects to my portfolio that align with my interests. So, watch this space!
+Among the projects in my portfolio are a Convolutional Neural Network for Traffic Sign Classification and an exploration in Natural Language Understanding using Latent Semantic Analysis. These highlight my capability in applying advanced neural networks and my skill in deriving meaningful insights from complex data.
+
+As I continue on this exciting path in data science, I eagerly look forward to enriching my portfolio with projects that demonstrate my technical prowess and contribute significantly to societal betterment. Keep an eye on this space for the latest updates, and please feel free to reach out for potential collaborations or discussions!
 
 -----
 
