@@ -57,7 +57,7 @@ The findings provide a roadmap for improving the RDMI, making it a more reliable
 
 -----
 
-### Project 1: [CNN Transfer Learning to Classify Traffic Signs](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf)
+### Project 2: [CNN Transfer Learning to Classify Traffic Signs](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf)
 
 ![image](https://user-images.githubusercontent.com/73396449/157452389-8f33cf8d-4cfe-48ec-9b7b-8495d570ddb4.png)
 
@@ -76,7 +76,7 @@ Libraries used: ***TensorFlow, Keras, Pandas, Numpy, PIL, Google.Colab***
 
 
 -----
-### Project 2: [Dashboard of Global Disparities in Cervical Cancer Rates](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)
+### Project 3: [Dashboard of Global Disparities in Cervical Cancer Rates](https://github.com/Amy-Reidy/Portfolio/blob/main/Global%20Disparities%20in%20Cervical%20Cancer%20Rates/Notebook%20-%20'Global%20Disparities%20in%20Cervical%20Cancer'%20Project.ipynb)
 
 ![image](https://user-images.githubusercontent.com/73396449/180845556-4f197fce-6f9e-4060-94b1-9027f2e12b1a.png)
 
@@ -106,7 +106,7 @@ Skills demonstrated: ***Data Visualisation, Data Mining, Data Wrangling, Dashboa
 Libraries used: ***Plotly, Dash, Flask, Pandas, Numpy***
 
 -----
-### Project 3: [Latent Semantic Analysis: Applied Linear Algebra in Natural Language Understanding](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb)                                                                                                                          
+### Project 4: [Latent Semantic Analysis: Applied Linear Algebra in Natural Language Understanding](https://github.com/Amy-Reidy/Portfolio/blob/main/Latent%20Semantic%20Analysis%20Project/Linear%20Algebra%20Project%20Code%20-%20LSA.ipynb)                                                                                                                          
 
 ![image](https://user-images.githubusercontent.com/73396449/159176567-92ee61b6-9233-4385-b957-ad8e0cfe9a87.png)
 
@@ -135,7 +135,7 @@ Libraries used: ***Natural Language Toolkit (NLTK), TfidfVectorizer, CountVector
 
 
 -----
-### Project 4: [Exploring Factors Related to Global Rates of COVID-19](https://github.com/Amy-Reidy/Portfolio/blob/main/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19..ipynb)
+### Project 5: [Exploring Factors Related to Global Rates of COVID-19](https://github.com/Amy-Reidy/Portfolio/blob/main/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19/Exploring%20Factors%20Related%20to%20Global%20Rates%20of%20COVID-19..ipynb)
 
 ![Alarming gap in global response to COVID-19](https://user-images.githubusercontent.com/73396449/123540825-3bbcb100-d741-11eb-84f9-0d0b61a7fda3.jpg)
 
@@ -157,7 +157,7 @@ Skills demonstrated: ***Hypothesis Testing, Advanced Statistics, Linear Regressi
 Tools used: ***Pandas, Numpy, Scikit-learn, TensorFlow, SQLite3, Scipy.stats,  Matplotlib, Seaborn, Requests, BeautifulSoup, Geopy, Folium***
 
 -----
-### Project 5: ["Has COVID-19 affected the world's happiness and wellbeing?"](https://github.com/Amy-Reidy/Portfolio-by-Amy-Reidy/blob/main/World%20Happiness%20and%20Wellbeing%20-%20Stats%20Project/World%20Happiness%20and%20Wellbeing%20Project.ipynb)
+### Project 6: ["Has COVID-19 affected the world's happiness and wellbeing?"](https://github.com/Amy-Reidy/Portfolio-by-Amy-Reidy/blob/main/World%20Happiness%20and%20Wellbeing%20-%20Stats%20Project/World%20Happiness%20and%20Wellbeing%20Project.ipynb)
 ![Beyond-Catastrophe](https://user-images.githubusercontent.com/73396449/123085318-6269a780-d422-11eb-85a9-babc7d78552b.jpg)
 
 This is a project I undertook for a module on 'Statistics and Applied Probability' and I used data from the World Happiness Report 2021 to test the following hypotheses:
@@ -173,7 +173,7 @@ Libraries used: ***Pandas, Numpy, SciPy, Matplotlib, Seaborn***
 
 
 
-### Project 6: [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
+### Project 7: [“Exploring Toronto Neighborhoods to Identify a Suitable Location for a New Indian Restaurant”](https://github.com/Amy-Reidy/Portfolio/blob/main/IBM%20Capstone%20Project%20-%20Exploring%20Indian%20Restaurants%20in%20Toronto.ipynb)
 
 ![image](https://user-images.githubusercontent.com/73396449/160131823-895a8c41-faa0-44d6-b1cd-920b531ccc7b.png)
 
