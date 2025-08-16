@@ -16,6 +16,46 @@ Among the projects in my portfolio are a Convolutional Neural Network for Traffi
 As I continue on this exciting path in data science, I eagerly look forward to enriching my portfolio with projects that demonstrate my technical prowess and contribute significantly to societal betterment. Keep an eye on this space for the latest updates, and please feel free to reach out for potential collaborations or discussions!
 
 -----
+### Project 1: [Evaluation of the Rural Development Model Index (RDMI) for Sustainable Rural Development Planning](https://github.com/Amy-Reidy/RDMI_Evaluation_Dissertation_Project)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b438566-d752-47bd-b64c-cc1ad953f8e5" alt="Example RDMI map for Kenya" width="60%"/><br>
+  <em>Interactive RDMI map for Kenya</em>
+</p>
+
+
+This research formed my **Master’s dissertation** for the MSc in Data Science at Atlantic Technological University, completed in collaboration with **Lotus Project**, a non-profit running sustainable development programmes in Vietnam. The project evaluated the **Rural Development Model Index (RDMI)** — a GIS-based composite indicator designed to identify areas most suitable for sustainable rural development interventions.
+
+The study explored the RDMI’s ability to reflect key criteria for the Lotus Project’s Rural Development Model and assessed its robustness using **two case study countries**: Vietnam (where the model was developed) and Kenya (selected for its potential in rural electrification and poverty alleviation).
+
+**Key steps and methods:**
+- **Indicator review & mapping analysis** – Assessed alignment between RDMI indicators and programme criteria, identifying data gaps.
+- **Exploratory Data Analysis (EDA)** – Compared relationships between RDMI and individual indicators, including correlation heatmaps and spatial visualisations.
+- **Sensitivity analysis** – Tested the impact of varying model parameters, aggregation methods, and indicator inclusion.
+- **Uncertainty analysis** – Applied Monte Carlo simulations to assess robustness under different weighting schemes.
+- **GIS mapping** – Created high-resolution suitability maps for Vietnam and Kenya, including disaggregated environmental, social, and geographical layers.
+
+**Main findings:**
+- Recommended removing NDVI to avoid bias towards greener, more developed areas in countries where the most marganilized communities may live in arid areas.
+- Highlighted the importance of adding more indicators to the index, particularly indicators related to access to electricity and poverty levels.
+- Found median aggregation unsuitable with three dimensions; weighted or arithmetic means performed better.
+- Sensitivity and uncertainty analyses revealed specific variables and parameter choices that significantly influence outputs.
+
+**Impact:**  
+The findings provide a roadmap for improving the RDMI, making it a more reliable tool for governments and NGOs to target underserved rural communities globally.
+
+**Skills demonstrated:** *Geospatial data analysis, Composite indicator evaluation, GIS mapping, Sensitivity & uncertainty analysis, Stakeholder interviews, Data visualisation, Monte Carlo simulation, Python, ArcGIS.*
+
+**Tools and libraries:** *ArcGIS, Python, Google Earth Engine, GeoTIFF processing, Monte Carlo simulation techniques.*
+
+**Full thesis:** [PDF](https://drive.google.com/file/d/1iogjahV232JIWjPbq4QT7viFjQOtFDBN/view?usp=sharing)  
+**GitHub repository:** [Link to repo](https://github.com/Amy-Reidy/RDMI_Evaluation_Dissertation_Project/tree/main)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e6b08f82-f2d2-4438-ae23-7dd27f32e783" alt="RDMI map for Kenya with different laers" width="40%"/><br>
+  <em>Example of how the RDMI map for Kenya could be visualised with additional layers such as road networks (red) and protected areas (green and yellow). Image created by author using ArcGIS.</em>
+</p>
+
+-----
 
 ### Project 1: [CNN Transfer Learning to Classify Traffic Signs](https://github.com/Amy-Reidy/Portfolio/blob/main/Traffic%20Sign%20Classifier%20with%20Transfer%20Learning%20Project/Poster%20for%20Transfer%20Learning%20Project.pdf)
 
